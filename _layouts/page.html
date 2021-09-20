@@ -2,13 +2,22 @@
 layout: default
 ---
 {%- include header.html -%}
-<main class="post__wrapper">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"><main class="post__wrapper">
+
   {%- include header_nav.html -%}
   <article class="post">
     <header class="post__header">
       <h1 class="post__title page__title">{{ page.title | escape }}</h1>
     </header>
     <div class="post__content content">
+     <style>
+     body{
+       font-family: 'Roboto', sans-serif;
+       font-size: 22px;
+     }
+     </style>
       {{ content | img_prefix }}
     </div>
   </article>

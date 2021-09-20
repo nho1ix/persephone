@@ -12,6 +12,20 @@ layout: default
     <div class="archive__header_intro">
       {{ site.description | markdownify }}
     </div>
+    <!-- <div class="archive__header_nav"> -->
+    <!--   <nav class ="top-nav"> -->
+    <!--     <a href="/" class="nav-link active"> -->
+    <!--       Home -->
+    <!--     </a> -->
+    <!--     <a href="/blog/" class="nav-link"> -->
+    <!--       Blogs -->
+    <!--     </a> -->
+    <!--     <a href="/about/" class="nav-link"> -->
+    <!--       About -->
+    <!--     </a> -->
+    <!--   </nav> -->
+    <!-- </div> -->
+
     {%- include icons.html -%}
   </div>
   <div class="archive__content">
@@ -21,7 +35,7 @@ layout: default
 			{%- for page in pages -%}
 				<li class="archive__item">
 					<a href="{{ page.url | relative_url }}" class="archive__link clearfix">
-            <span class="archive__time">{%- if page.layout == 'book' -%}{{ page.date }}{%- else -%}{{ page.date | date: "%Y-%m-%d" }}{%- endif -%}</span>
+            <span class="archive__time">{%- if page.layout == 'book' -%}{{ page.date }}{%- else -%}{{ page.date | date: "%b %d, %Y" }}{%- endif -%}</span>
 						<span class="archive__title">{{ page.title }}</span>
 					</a>
 				</li>

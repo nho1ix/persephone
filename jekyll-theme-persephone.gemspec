@@ -11,7 +11,9 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
-
+  spec.metadata = {
+    'github_repo' => 'git@github.com:nho1ix/nho1ix.github.io.git'
+    }
   # spec.add_runtime_dependency "jekyll", "~> 3.5"
   # spec.add_runtime_dependency "jekyll-toc"
 

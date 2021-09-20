@@ -2,6 +2,9 @@
 layout: default
 ---
 {%- include header.html -%}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"><main class="post__wrapper">
 <main class="post__wrapper">
   {%- include header_nav.html -%}
   <div class="post__top_navs clearfix">
@@ -23,10 +26,16 @@ layout: default
     <header class="post__header">
       <h1 class="post__title">{{ page.title | escape }}</h1>
       <div class="post__meta">
-        <time>{{ page.date | date: "%Y-%m-%d %H:%M" }}</time>
+        <time>{{ page.date | date: "%b %d, %Y" }}</time>
       </div>
     </header>
     <div class="post__content content">
+     <style>
+     body{
+       font-family: 'Roboto', sans-serif;
+       font-size: 22px;
+     }
+     </style>
       {{ content | toc | img_prefix }}
     </div>
   </article>
