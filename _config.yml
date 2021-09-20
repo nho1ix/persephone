@@ -1,5 +1,6 @@
 plugins: 
   - jekyll-feed
+  - jekyll-books
 title: Shichi
 email: from.victor.vo@gmail.com
 description: Vic's Blog
@@ -31,6 +32,7 @@ theme: jekyll-theme-persephone
 theme_setting:
 #   # The slides count in the slides layout. Default is 4.
  slides_count: 5
+ slides_size: 5
 #   # The ← back URL on the top of your post page. Default is your site's home page.
  blog_page: "blog/index.md"
 #   # The URL on your name on the bottom of your post and page. Default is your site's home page.
@@ -41,6 +43,7 @@ theme_setting:
  nav_pages:
    - "index.md"
    - "blog/index.md"
+   - "pictures.md"
    - "about.md"
    -
    #     title: "External Link Title"
@@ -53,16 +56,6 @@ theme_setting:
 #     category_all: All # The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
 #     blog_title: Blog # The text of ← back url on the top of the post layout.  Default is 'Home'.
 #     # The locales of the comment controls.
- comment:
-   enabled: true
-   provider: disqus
-   disqus:
-     name: nho1ix.github.io
-   user: ""
-   email: ""
-   url: ""
-   message: ""
-   reply: ""
 
  timezone: "America/Los_Angeles"
  markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -71,14 +64,14 @@ theme_setting:
 #   <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
 
 # # The settings of comments.
-# comment:
+comment:
 #   # You should set it to enable comment
-#   enabled: true
+  enabled: true
 #   # Your comment provider
-#   provider: disqus # static/disqus
+  provider: disqus # static/disqus
 #   # If provider == disqus
-#   disqus:
-#     name: website_name
+  disqus:
+    name: nho1ix.github.io
 #   # Or provider == static
 #   static:
 #     # Your static comment url.
