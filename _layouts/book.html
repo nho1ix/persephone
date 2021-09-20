@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="book sidebar-right">
   {%- include header.html -%}
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
   <div class="book__cover">
     <img src="{{ page.img | img_url_prefix }}" class="book__img" alt="{{ page.title }}"/>
   </div>
