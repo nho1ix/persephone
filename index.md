@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: slides
 title: Home
 permalink: /
 pagination:
