@@ -72,6 +72,7 @@ comment:
 #   # If provider == disqus
   disqus:
     name: nho1ix.github.io
+    shortname: nho1ix-github-io
 #   # Or provider == static
 #   static:
 #     # Your static comment url.
