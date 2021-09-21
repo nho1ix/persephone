@@ -43,7 +43,7 @@ theme_setting:
  nav_pages:
    - "index.md"
    - "blog/index.md"
-   - "pictures.md"
+   # - "pictures.md"
    - "about.md"
    -
    #     title: "External Link Title"
