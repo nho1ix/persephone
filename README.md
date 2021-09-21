@@ -1,3 +1,4 @@
+### :octocat: Hey there! Thanks for visiting! <img alt="Visits" align="right" src="https://badges.pufler.dev/visits/nho1ix/nho1ix.github.io"/> 
 # jekyll-theme-persephone
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-persephone.svg)](https://rubygems.org/gems/jekyll-theme-persephone)
