@@ -66,7 +66,7 @@ theme_setting:
 # # The settings of comments.
 comment:
 #   # You should set it to enable comment
-  enabled: true
+  enabled: false
 #   # Your comment provider
   provider: disqus # static/disqus
 #   # If provider == disqus
