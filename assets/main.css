@@ -730,22 +730,27 @@ a.nav-link.active:after {
 	margin: 0 5px;
 	width: 18px;
 	height: 18px;
+        color: var(--light);
 }
 
 .icon__fill {
-	fill: var(--gray);
+	fill: var(--light);
 }
 
 .icon__stroke {
-	stroke: var(--gray);
+	stroke: var(--light);
+}
+
+.icon__list a:hover .icon__link {
+	fill: var(--gray);
 }
 
 .icon__list a:hover .icon__fill {
-	fill: var(--dark);
+	fill: var(--gray);
 }
 
 .icon__list a:hover .icon__stroke {
-	stroke: var(--dark);
+	stroke: var(--gray);
 }
 
 @media screen and (max-width:800px) {
