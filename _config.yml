@@ -1,5 +1,6 @@
 plugins: 
   - jekyll-feed
+  - jekyll-seo-tag
     #  - jekyll-books
 title: Shichi
 email: from.victor.vo@gmail.com
