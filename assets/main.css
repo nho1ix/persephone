@@ -11,6 +11,7 @@
 	--lightest: #faf9fa;
 	--white: #fff;
 	--blue: #007bff;
+	--link: #78b2ff;
 	--red: #dc3545;
 	--bg-color: var(--darker);
 	--content-width: 750px;
@@ -362,10 +363,10 @@ a.nav-link.active:after {
 .content a {
 	text-decoration: none;
 	background: transparent;
-	border-bottom: 1px dashed var(--gray);
-	margin: 0 .25rem;
+	border-bottom: 1px dashed var(--light-gray);
+	/* margin: 0 .25rem; */
 	font-size: .9em;
-	color: var(--grayer);
+	color: var(--link);
 }
 
 .content a:active,.content a:focus,.content a:hover {
@@ -518,8 +519,8 @@ a.nav-link.active:after {
 .content blockquote {
 	margin: 0 0 .85em;
 	padding: 0 15px;
-	color: var(--gray);
-	border-left: 4px solid var(--light);
+	color: var(--light-gray);
+	border-left: 4px solid var(--grayer);
 }
 
 .content blockquote:first-child {

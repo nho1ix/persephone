@@ -19,8 +19,6 @@ rss: "/feed.xml"
 # # Theme Settings
 
 theme: jekyll-theme-persephone
-url: https://nho1ix.github.io
-baseurl: ""
 
 # # Your site's logo. Will be shown on the left top of your page.
 # logo: /img/logo.svg
@@ -66,13 +64,18 @@ theme_setting:
 # # The settings of comments.
 comment:
 #   # You should set it to enable comment
-  enabled: false
+  enabled: true
 #   # Your comment provider
   provider: disqus # static/disqus
 #   # If provider == disqus
   disqus:
+    disqus_username: disqus_Zb63FuyAPe
     name: nho1ix.github.io
     shortname: nho1ix-github-io
+
+url: https://nho1ix.github.io
+baseurl: ""
+
 #   # Or provider == static
 #   static:
 #     # Your static comment url.
