@@ -64,7 +64,7 @@ theme_setting:
 # # The settings of comments.
 comment:
 #   # You should set it to enable comment
-  enabled: true
+  enabled: false
 #   # Your comment provider
   provider: disqus # static/disqus
 #   # If provider == disqus
@@ -73,8 +73,7 @@ comment:
     name: nho1ix.github.io
     shortname: nho1ix-github-io
 
-url: https://nho1ix.github.io
-baseurl: ""
+url: https://www.shichi.org
 
 #   # Or provider == static
 #   static:
