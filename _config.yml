@@ -1,3 +1,4 @@
+url: https://shichi.org
 plugins: 
   - jekyll-feed
   - jekyll-seo-tag
@@ -51,13 +52,16 @@ theme_setting:
  math: true # Mathjax
  mermaid: true # Mermaid
 #   #  Locales of this theme.
-#   lang:
-#     category_all: All # The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
-#     blog_title: Blog # The text of ← back url on the top of the post layout.  Default is 'Home'.
-#     # The locales of the comment controls.
-
- timezone: "America/Los_Angeles"
- markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+ lang:
+   category_all: All # The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
+   blog_title: Blog # The text of ← back url on the top of the post layout.  Default is 'Home'.
+    # The locales of the comment controls.
+   comment:
+     user: "昵称"
+     email: "邮箱"
+     url: "链接"
+     message: "说点什么吧..."
+     reply: "回复"
 
 # head_code: |
 #   <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
@@ -70,9 +74,9 @@ comment:
   provider: disqus # static/disqus
 #   # If provider == disqus
   disqus:
-    disqus_username: disqus_Zb63FuyAPe
-    name: nho1ix.github.io
-    shortname: nho1ix-github-io
+    name: https://www.shichi.org
+    disqus_username: nho1ix
+    shortname: shichi
 
 #   # Or provider == static
 #   static:
