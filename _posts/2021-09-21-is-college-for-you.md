@@ -5,7 +5,7 @@ title: Is college for you?
 
 [![College](https://commondatastorage.googleapis.com/ctnetimages%2FReasonsToReturnToCollegeWordCloud650.jpg)](https://commondatastorage.googleapis.com/ctnetimages%2FReasonsToReturnToCollegeWordCloud650.jpg)
 
-Getting closer to 18, I've felt the increasing urgency to start thinking about what I'm going to do in the future. I've had the same thoughts as others, "How about college?" My conclusion? **It's not worth it anymore**. I've found that too many people go to college more for the experience than what they're really learning. Paying for college classes only to go party every weekend is quite a waste. 
+Getting closer to 18, I've felt the increasing urgency to start thinking about what I'm going to do in the future. I've had the same thoughts as others, "How about college?" My conclusion? **It's not worth it anymore**. I've found that too many people go to college more for the experience rather than what they're really learning. Paying for college classes only to go party every weekend is quite a waste. 
 
 But let's say you're not the type to party every week, and you're very studious and academic oriented. Some good questions to ask yourself to see if you're on the right track are:
 - Are you taking college courses that have _nothing_ to do with your major?
@@ -23,16 +23,16 @@ But let's say you're not the type to party every week, and you're very studious 
 - Have you done research on whether you can really pay off the college debt you rack up? Or have you taken the words of others saying that you could easily pay it off once you graduate for granted?
   - Could it be better to have _zero debt_ and a _lower income_ compared to a _high debt load and higher income?_
 
-Many of these questions are targeted about really thinking deeper about the things that people never think about when they want to go to college. For example, if you and Person A are applying to a job at a company, and you have had no interactions with the company before, but Person A is friends with the president of the company, who do you think will get the spot? 
+Many of these questions are targeted about really thinking deeper about the things that people never think about when they want to go to college. For example, if you and Person A are applying to a job at a company, and you have had no interactions with the company before, but Person A is friends with the president of the company, who do you think will get the spot?
 
 [![Connections](https://cdn.shopify.com/s/files/1/1280/3557/articles/Connection_Blog_Big.jpg?v=1562700128)](https://cdn.shopify.com/s/files/1/1280/3557/articles/Connection_Blog_Big.jpg?v=1562700128)
 
-Connections are one of the biggest unspoken trump cards that people never seem to bring up. Having connections that can get you into places, whether it be McDonald's or Google, is a valuable card. 
+Connections are one of the biggest unspoken trump cards that people never seem to bring up. Making and having connections that can get you into places, whether it be McDonald's or Google, is a valuable skill and card to possess. I'm not saying that you have to do it, but it gives you more options to explore, similar to how an affluent family has many options in regards to spending and choosing due ot the amount of money that they possess, compared to a more impoverished family.
 
 There are studies from educational websites [such as this one](https://www.brookings.edu/blog/up-front/2020/10/08/major-decisions-what-graduates-earn-over-their-lifetimes/#cancel) that state:
 > "At the median, career earnings for a bachelor's degree graduate are more than twice as high as for someone with only a high school diploma or GED, roughly 70 percent higher than for someone with some college but no degree, and more than 45 percent higher than for someone with an associate degree."
 
-Now, this seems great on paper, but doesn't take into account that most college graduates are already conscientious and intelligent, and would do just fine even if they don't go to college. This study doesn't account for the college debt that you acquire. According to the [New York Times](https://www.nytimes.com/2018/05/16/opinion/college-useful-cost-jobs.html), they state: 
+Now, this seems great on paper, but doesn't take into account that most college graduates are likey already conscientious and intelligent, and would do just fine even if they don't go to college. This study doesn't account for the college debt that you acquire. According to the [New York Times](https://www.nytimes.com/2018/05/16/opinion/college-useful-cost-jobs.html), they state: 
 > "But for those born into poverty, the results were far less impressive. College graduates born poor earned on average only slightly more than did high school graduates born middle class. And over time, even this small “degree bonus” ebbed away, at least for men: By middle age, male college graduates raised in poverty were earning less than non-degree holders born into the middle class. The scholars conclude, “Individuals from poorer backgrounds may be encountering a glass ceiling that even a bachelor’s degree does not break.”"
 
-Now what, "woe is me?" No. There are many options out there if you do your research, but it's important that you try to focus on getting a skill or trade or anything that you get paid for, and that the world needs. 
+Now what, "woe is me?" No. There are many options out there if you do your research, but it's important that you try to focus on getting a skill or trade or anything that you get paid for, and that the world needs.
