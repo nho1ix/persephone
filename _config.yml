@@ -26,7 +26,6 @@ theme: jekyll-theme-persephone
 # logo: /img/logo.svg
 # # if the images of our blog are stored in an external cloud. you can use the jekyll-img-prefix plugin and set your images' base url here.
 # img_prefix: https://your-img-cdn.com
-# # the rss link of your blog.
 
 # # the followings are settings for displays of your blog.
 theme_setting:
@@ -45,6 +44,7 @@ theme_setting:
    - "blog/index.md"
    # - "pictures.md"
    - "about.md"
+   - "blog/relationships.md"
    -
    #     title: "External Link Title"
 #   # Every default value in the following settings is false. You can set them globally here or separately in a single post/page/chapter.
