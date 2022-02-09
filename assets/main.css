@@ -36,7 +36,7 @@ body,html {
 	font-family: Microsoft YaHei,微软雅黑,宋体,STXihei,华文细黑,Arial,Verdana,arial,sans-serif;
 	width: 100%;
 	background-color: var(--bg-color);
-	color: var(--dark);
+	color: var(--lightest);
 	font-size: 17px;
 }
 body{
@@ -272,7 +272,7 @@ a.nav-link.active:after{
     display:block;
     word-wrap:break-word;
     overflow:hidden;
-    color:var(--dark);
+    color:var(--lightest);
     line-height:1.7;
     text-align:justify;
     text-justify:inter-word
@@ -1741,7 +1741,7 @@ a.nav-link.active:after{
     margin-top:1rem
 }
 .post__header .post__meta{
-    color:var(--gray);
+    color:var(--light-gray);
     font-size:.935rem
 }
 .post__relative ul{
