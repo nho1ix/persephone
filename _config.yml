@@ -42,9 +42,8 @@ theme_setting:
  nav_pages:
    - "index.md"
    - "blog/index.md"
-   # - "pictures.md"
    - "about.md"
-   - "blog/relationships.md"
+   # - "pictures.md"
    -
    #     title: "External Link Title"
 #   # Every default value in the following settings is false. You can set them globally here or separately in a single post/page/chapter.
