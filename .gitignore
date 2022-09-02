@@ -5,3 +5,5 @@ _site
 Gemfile.lock
 node_modules
 _books/*
+.github/workflows/gem-push.yml.back
+.jekyll-cache/
