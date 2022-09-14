@@ -14,7 +14,7 @@
 	--link: #78b2ff;
 	--red: #dc3545;
 	--bg-color: var(--darker);
-	--content-width: 750px;
+	--content-width: 800px;
 }
 @keyframes spin{
     0%{
@@ -33,11 +33,12 @@
     box-sizing:border-box
 }
 body,html {
-	font-family: Microsoft YaHei,微软雅黑,宋体,STXihei,华文细黑,Arial,Verdana,arial,sans-serif;
+	/* font-family: Microsoft YaHei,微软雅黑,宋体,STXihei,华文细黑,Arial,Verdana,arial,sans-serif; */
+	font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI",sans-serif;
 	width: 100%;
 	background-color: var(--bg-color);
 	color: var(--lightest);
-	font-size: 17px;
+	font-size: 22px;
 }
 body{
     min-height:100vh;
@@ -318,7 +319,9 @@ a.nav-link.active:after{
 .content img{
     border:0;
     max-width:100%;
-    vertical-align:middle
+    vertical-align:middle;
+    display: block;
+    margin: auto;
 }
 .content hr{
     height:1px;
@@ -591,7 +594,7 @@ a.nav-link.active:after{
     color:var(--lighter);
     width:100%;
     height:100%;
-    font-size:18px;
+    font-size:20px;
     line-height:1.5rem;
     display:flex!important;
     display:-webkit-box;
@@ -1750,7 +1753,7 @@ a.nav-link.active:after{
 }
 .post__content{
     padding:1.5rem 0;
-    margin-bottom:4rem
+    margin-bottom:1rem
 }
 .post__contact{
     margin:0;
