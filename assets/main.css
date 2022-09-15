@@ -278,6 +278,14 @@ a.nav-link.active:after{
     text-align:justify;
     text-justify:inter-word
 }
+@media only screen and (max-width: 600px) {
+    body {
+    font-size:85%;
+  }    
+    .content {
+    text-align: left;
+  }
+}
 .content *{
     box-sizing:border-box;
     -webkit-box-sizing:border-box;
