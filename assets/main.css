@@ -115,7 +115,7 @@ a,a:active,a:hover,a:visited{
 }
 .site-footer{
     line-height:1.5rem;
-    padding:1.25rem 0;
+    padding:1.5rem;
     color:var(--gray);
     font-size:.75rem;
     text-align:center;
@@ -265,9 +265,9 @@ a.nav-link.active:after{
         margin:-10px 0 0;
         left:auto
     }
-    .top-nav{
+   /* .top-nav{
         padding-left:40px
-    }
+    } */
 }
 .content{
     display:block;
@@ -1752,6 +1752,17 @@ a.nav-link.active:after{
 .post__header .post__meta{
     color:var(--light-gray);
     font-size:.935rem
+}
+@media only screen and (max-width: 600px) {
+    h1 {
+    font-size: 1.75rem;
+    }
+   .post__header .post__meta {
+    font-size: .9rem;
+    }
+   .post__archive_path a {
+    font-size: 1.1rem;
+    }
 }
 .post__relative ul{
     padding:0
