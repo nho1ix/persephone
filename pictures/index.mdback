@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Pictures | Shichi</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="Pictures" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Vic’s Blog" />
+<meta property="og:description" content="Vic’s Blog" />
+<link rel="canonical" href="https://nho1ix.github.io/persephone/pictures/" />
+<meta property="og:url" content="https://nho1ix.github.io/persephone/pictures/" />
+<meta property="og:site_name" content="Shichi" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Pictures" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Vic’s Blog","headline":"Pictures","url":"https://nho1ix.github.io/persephone/pictures/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content=""><title>Pictures | Shichi</title>
+  <meta name="keywords" content="">
+  <meta name="description" content=""><link rel="stylesheet" href="/assets/main.css?v=0.3.3" />
+<script src="/assets/main.js?v=0.3.3" defer></script>
+  <link rel="alternate" type="application/rss+xml" title="Shichi" href="/feed.xml" />
+  </head>
+<link rel="alternate" type="application/atom+xml" title="Shichi" href="/feed.xml">
+  <body class="body-slides">
+    <div class="loading" id="loading">
+  <div class="loading__icon">
+  </div>
+</div>
+<a href="/" class="logo"><h1>Shichi</h1>
+</a><a href="/archive/" class="sidebar__toggler">
+  <span class="sidebar__toggler_top"></span>
+  <span class="sidebar__toggler_middle"></span>
+  <span class="sidebar__toggler_bottom"></span>
+</a><link rel="alternate" type="application/atom+xml" title="Shichi" href="/feed.xml"><main class="slide" id="sectionContainer"></main>
+
+<ul class="slide__controls">
+  <div class="slide__control__icon slide__control_top" id="prevBtn">
+    <svg width="40" height="40">
+      <circle class="circle-progress" r="18" cy="20" cx="20"  stroke-linejoin="round" stroke-linecap="round" />
+    </svg>
+    <span class="slide__control_arrow slide__control_up"></span>
+  </div><div class="slide__control__icon slide__control_bottom" id="nextBtn">
+    <svg width="40" height="40">
+      <circle class="circle-progress" r="18" cy="20" cx="20"  stroke-linejoin="round" stroke-linecap="round" />
+    </svg>
+    <span class="slide__control_arrow slide__control_down"></span>
+  </div>
+</ul>
+
+  </body>
+</html>
